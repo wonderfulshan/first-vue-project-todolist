@@ -1,3 +1,6 @@
+![截图](https://raw.githubusercontent.com/wonderfulshan/first-vue-project-todolist/master/src/assets/lizi.PNG)
+
+
 # my-first-project
 
 > A Vue.js project
